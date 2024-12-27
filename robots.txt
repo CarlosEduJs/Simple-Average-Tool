@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /admin/      # Bloqueia acesso ao diretório /admin/
-Disallow: /private/    # Bloqueia acesso ao diretório /private/
+Disallow: /admin/      
+Disallow: /private/    
 Allow: /
 
 Sitemap: https://simple-average-tool.vercel.app/sitemap.xml
