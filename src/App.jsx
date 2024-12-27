@@ -23,7 +23,7 @@ function App() {
         title="Calcular Média"
         description="Simple Average Tool é uma ferramenta intuitiva para calcular médias simples, ponderadas e personalizadas. Ideal para estudantes, professores e profissionais, permite gerenciar grupos de dados com facilidade e precisão"
         keywords="calcular,calcule,medias,médias,simples,ponderada,geométrica,geometrica,harmônica,harmonica"
-        url="nourl"
+        url="https://simple-average-tool.vercel.app"
       />
       <Header showSidebar={handleShowSidebar} />
       {sidebarOpen && (
